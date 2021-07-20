@@ -1,0 +1,45 @@
+CSIxR	2019
+EtabNL	19
+     qalchatti : HP-037
+     qalchatti : HP-037
+     asharma : DELL-168
+     nsverdlenko : HP-039
+     asadeghi : HP-024
+     mmonk : HP-027
+     asharma : DELL-168
+     edezhdar : HP-028
+     asadeghi : HP-024
+EtabNL	2017
+EtabUL	19
+     jcenteno : HP-029
+     jcenteno : HP-029
+     jcenteno : HP-029
+EtabUL	2017
+Per3D	7
+     gsguest : perform-001
+     gsguest : Dell-164
+     edezhdar : HP-028
+     gsguest : Dell-164
+     gsguest : Dell-164
+     gsguest : PERFORM-002
+     gsguest : PERFORM-002
+Per3D	8
+     qalchatti : HP-037
+     qalchatti : HP-037
+SAPAD	20
+SAPAD	21
+SAPAD	22
+SAPAD	23
+     nsverdlenko : HP-039
+SAPPL	20
+SAPPL	21
+SAPPL	22
+SAPPL	23
+SafePT	2016
+spBeam	5.00
+spColumn	6.00
+spColumn	7.00
+     asadeghi : HP-024
+spMats	8.00
+spSlab	5.00
+spWall	5.00
