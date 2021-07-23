@@ -62,9 +62,9 @@
    |- Commuter license allowed       : YES
    |- Maximum commuter checkout days : 30 days
    |- Maximum concurrent user(s)     : 7
-   |- Unreserved tokens in use       : 6
+   |- Unreserved tokens in use       : 5
    |- Commuter tokens in use         : 0
-   |- Commuter tokens left           : 1
+   |- Commuter tokens left           : 2
    |- Reserved tokens in use         : 0
    |- Available reserved             : 0
    |- Soft limit on users            : Unlimited
@@ -147,24 +147,14 @@
      |- Allowed on VM                  : YES
 
    |- Client Information
-     |- User name                      : bschacter
-     |- Host name                      : dell-160
+     |- User name                      : edezhdar
+     |- Host name                      : HP-028
      |- X display name                 : local
      |- Group name                     : DefaultGrp
-     |- Status                         : Running since Thu Jul 22 16:04:31 2021 
+     |- Status                         : Running since Mon Jul 19 07:43:28 2021 
      |- Is commuter token              : NO
      |- Token shared by                : 1 other user(s)
-     |- ID for token sharing           : dell-160
-
-   |- Client Information
-     |- User name                      : bschacter
-     |- Host name                      : dell-160
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Thu Jul 22 16:04:31 2021 
-     |- Is commuter token              : NO
-     |- Token shared by                : 1 other user(s)
-     |- ID for token sharing           : dell-160
+     |- ID for token sharing           : HP-028
 
    |- Client Information
      |- User name                      : jcenteno
@@ -217,6 +207,8 @@
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Mon Jul 19 07:43:28 2021 
      |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-028
 
  |- Feature Information
    |- Feature name                   : "EtabNL"  	
@@ -587,12 +579,34 @@
      |- Allowed on VM                  : YES
 
    |- Client Information
-     |- User name                      : edezhdar
-     |- Host name                      : HP-028
+     |- User name                      : gsguest
+     |- Host name                      : Dell-164
      |- X display name                 : local
      |- Group name                     : DefaultGrp
-     |- Status                         : Running since Tue Jul 20 08:48:32 2021 
+     |- Status                         : Running since Fri Jul 23 09:38:08 2021 
      |- Is commuter token              : NO
+     |- Token shared by                : 2 other user(s)
+     |- ID for token sharing           : Dell-164
+
+   |- Client Information
+     |- User name                      : gsguest
+     |- Host name                      : Dell-164
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Fri Jul 23 09:38:08 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 2 other user(s)
+     |- ID for token sharing           : Dell-164
+
+   |- Client Information
+     |- User name                      : gsguest
+     |- Host name                      : Dell-164
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Fri Jul 23 09:38:08 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 2 other user(s)
+     |- ID for token sharing           : Dell-164
 
    |- Client Information
      |- User name                      : gsguest
@@ -1065,9 +1079,9 @@
    |- Commuter license allowed       : YES
    |- Maximum commuter checkout days : 30 days
    |- Maximum concurrent user(s)     : 2
-   |- Unreserved tokens in use       : 1
+   |- Unreserved tokens in use       : 0
    |- Commuter tokens in use         : 0
-   |- Commuter tokens left           : 1
+   |- Commuter tokens left           : 2
    |- Reserved tokens in use         : 0
    |- Available reserved             : 0
    |- Soft limit on users            : Unlimited
@@ -1126,14 +1140,6 @@
      |- Sharing limit                  : 3
      |- Token lifetime (heartbeat)     : 300 secs (5 min(s))
      |- Allowed on VM                  : YES
-
-   |- Client Information
-     |- User name                      : kpriest
-     |- Host name                      : HP-023
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Thu Jul 22 11:06:27 2021 
-     |- Is commuter token              : NO
 
  |- Feature Information
    |- Feature name                   : "SafePT"  	

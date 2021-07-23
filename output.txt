@@ -1,17 +1,16 @@
 CSIxR	2019
 EtabNL	19
-     bschacter : dell-160
+     edezhdar : HP-028
      jcenteno : HP-029
      mmonk : HP-027
      asadeghi : HP-024
      nsverdlenko : HP-039
-     edezhdar : HP-028
 EtabNL	2017
 EtabUL	19
      asharma : DELL-168
 EtabUL	2017
 Per3D	7
-     edezhdar : HP-028
+     gsguest : Dell-164
      gsguest : PERFORM-002
 Per3D	8
      qalchatti : HP-037
@@ -19,12 +18,10 @@ SAPAD	20
 SAPAD	21
 SAPAD	22
 SAPAD	23
-     nsverdlenko : HP-039
 SAPPL	20
 SAPPL	21
 SAPPL	22
 SAPPL	23
-     kpriest : HP-023
 SafePT	2016
 spBeam	5.00
 spColumn	6.00

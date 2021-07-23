@@ -25,11 +25,11 @@ for line in f:
 h.close()
 h = open("temp.txt", 'r')
 irofile2 = iter(h)
-temp = ""
+temp = {}
 for line in h:
-    if(line != temp):
+    if (not line in temp.keys()):
+        temp[line] = line
         g.write(line)
-    temp = line
 
 
 g.close()
