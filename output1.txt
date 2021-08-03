@@ -1,0 +1,35 @@
+CSIxR 2019         0/1 Licenses being used
+EtabNL 19          6/7 Licenses being used
+     edezhdar     : HP-028    : 1/3 Allowed windows open
+     atolani      : HP-031    : 1/3 Allowed windows open
+     jcenteno     : HP-029    : 2/3 Allowed windows open
+     mmonk        : HP-027    : 1/3 Allowed windows open
+     qalchatti    : HP-037    : 2/3 Allowed windows open
+     asharma      : DELL-168  : 1/3 Allowed windows open
+EtabNL 2017        0/6 Licenses being used
+EtabUL 19          1/1 Licenses being used
+     asharma      : DELL-168  : 2/3 Allowed windows open
+EtabUL 2017        0/1 Licenses being used
+Per3D 7            3/6 Licenses being used
+     gsguest      : PERFORM-002 : 2/3 Allowed windows open
+     gsguest      : Dell-164  : 1/3 Allowed windows open
+     gsguest      : PERFORM-002 : 3/3 Allowed windows open
+Per3D 8            1/6 Licenses being used
+     jcenteno     : HP-029    : 1/3 Allowed windows open
+SAPAD 20           0/1 Licenses being used
+SAPAD 21           0/1 Licenses being used
+SAPAD 22           0/1 Licenses being used
+SAPAD 23           1/1 Licenses being used
+     kpriest      : HP-023    : 1/3 Allowed windows open
+SAPPL 20           0/1 Licenses being used
+SAPPL 21           0/1 Licenses being used
+SAPPL 22           0/1 Licenses being used
+SAPPL 23           1/2 Licenses being used
+     nsverdlenko  : HP-039    : 1/3 Allowed windows open
+SafePT 2016        0/1 Licenses being used
+spBeam 5.00        0/1 Licenses being used
+spColumn 6.00      0/5 Licenses being used
+spColumn 7.00      0/5 Licenses being used
+spMats 8.00        0/1 Licenses being used
+spSlab 5.00        0/1 Licenses being used
+spWall 5.00        0/2 Licenses being used

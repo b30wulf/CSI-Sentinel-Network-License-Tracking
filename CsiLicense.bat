@@ -4,3 +4,4 @@ timeout /t 15
 python3 parse.py
 python3 writetohtm.py
 start license.html
+
