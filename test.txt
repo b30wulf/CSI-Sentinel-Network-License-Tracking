@@ -1405,9 +1405,9 @@
    |- Commuter license allowed       : YES
    |- Maximum commuter checkout days : 180 days
    |- Maximum concurrent user(s)     : 5
-   |- Unreserved tokens in use       : 1
+   |- Unreserved tokens in use       : 2
    |- Commuter tokens in use         : 0
-   |- Commuter tokens left           : 4
+   |- Commuter tokens left           : 3
    |- Reserved tokens in use         : 0
    |- Available reserved             : 0
    |- Soft limit on users            : Unlimited
@@ -1440,6 +1440,14 @@
      |- Held licenses                  : Allowed, hold time set by application.
      |- Token lifetime (heartbeat)     : 120 secs (2 min(s))
      |- Allowed on VM                  : YES
+
+   |- Client Information
+     |- User name                      : asharma
+     |- Host name                      : DELL-168
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Wed Aug 04 12:39:27 2021 
+     |- Is commuter token              : NO
 
    |- Client Information
      |- User name                      : oalharras
@@ -1704,4 +1712,3 @@
      |- Token lifetime (heartbeat)     : 120 secs (2 min(s))
      |- Allowed on VM                  : YES
  Press Enter to continue . . . 
-^C
