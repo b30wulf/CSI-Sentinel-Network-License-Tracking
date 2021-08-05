@@ -123,8 +123,3 @@ for line in g:
 j.close()
 
 
-print(max)
-print(counter)
-
-
-
