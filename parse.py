@@ -114,7 +114,7 @@ for line in g:
             if len(line12) < NUM_LICENSE_ALLIGN :
                 for x in range (NUM_LICENSE_ALLIGN - len(line12)):
                     line12 = line12 + " " 
-            line12 = line12 + "     "+ str(counter[address2]) + "/" + str(max[address2]) + " Licenses being used\n" 
+            line12 = line12 + "     "+ str(counter[address2]) + "/" + str(max[address2]) + " Licenses being used:\n" 
             j.write(line12)
             address2 = address2 + 1
     else :

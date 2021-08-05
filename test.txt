@@ -62,9 +62,9 @@
    |- Commuter license allowed       : YES
    |- Maximum commuter checkout days : 30 days
    |- Maximum concurrent user(s)     : 7
-   |- Unreserved tokens in use       : 5
+   |- Unreserved tokens in use       : 6
    |- Commuter tokens in use         : 0
-   |- Commuter tokens left           : 2
+   |- Commuter tokens left           : 1
    |- Reserved tokens in use         : 0
    |- Available reserved             : 0
    |- Soft limit on users            : Unlimited
@@ -147,6 +147,34 @@
      |- Allowed on VM                  : YES
 
    |- Client Information
+     |- User name                      : mmonk
+     |- Host name                      : HP-027
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Tue Aug 03 07:02:41 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-027
+
+   |- Client Information
+     |- User name                      : atolani
+     |- Host name                      : HP-031
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Wed Aug 04 08:12:44 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-031
+
+   |- Client Information
+     |- User name                      : asadeghi
+     |- Host name                      : HP-024
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Wed Aug 04 15:19:48 2021 
+     |- Is commuter token              : NO
+
+   |- Client Information
      |- User name                      : qalchatti
      |- Host name                      : HP-037
      |- X display name                 : local
@@ -163,6 +191,8 @@
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Wed Aug 04 08:12:44 2021 
      |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-031
 
    |- Client Information
      |- User name                      : mmonk
@@ -171,6 +201,8 @@
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Tue Aug 03 07:02:41 2021 
      |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-027
 
    |- Client Information
      |- User name                      : jcenteno
@@ -379,7 +411,7 @@
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Thu Jul 22 15:27:09 2021 
      |- Is commuter token              : NO
-     |- Token shared by                : 1 other user(s)
+     |- Token shared by                : 2 other user(s)
      |- ID for token sharing           : DELL-168
 
    |- Client Information
@@ -389,7 +421,17 @@
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Thu Jul 22 15:27:09 2021 
      |- Is commuter token              : NO
-     |- Token shared by                : 1 other user(s)
+     |- Token shared by                : 2 other user(s)
+     |- ID for token sharing           : DELL-168
+
+   |- Client Information
+     |- User name                      : asharma
+     |- Host name                      : DELL-168
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Thu Jul 22 15:27:09 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 2 other user(s)
      |- ID for token sharing           : DELL-168
 
  |- Feature Information
@@ -494,9 +536,9 @@
    |- Commuter license allowed       : YES
    |- Maximum commuter checkout days : 30 days
    |- Maximum concurrent user(s)     : 6
-   |- Unreserved tokens in use       : 5
+   |- Unreserved tokens in use       : 4
    |- Commuter tokens in use         : 0
-   |- Commuter tokens left           : 1
+   |- Commuter tokens left           : 2
    |- Reserved tokens in use         : 0
    |- Available reserved             : 0
    |- Soft limit on users            : Unlimited
@@ -607,14 +649,6 @@
      |- Is commuter token              : NO
 
    |- Client Information
-     |- User name                      : gsguest
-     |- Host name                      : PERFORM-002
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Fri Jul 30 09:38:31 2021 
-     |- Is commuter token              : NO
-
-   |- Client Information
      |- User name                      : asharma
      |- Host name                      : DELL-168
      |- X display name                 : local
@@ -637,7 +671,7 @@
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Wed Jun 23 00:00:26 2021 
      |- Is commuter token              : NO
-     |- Token shared by                : 2 other user(s)
+     |- Token shared by                : 1 other user(s)
      |- ID for token sharing           : PERFORM-002
 
    |- Client Information
@@ -647,17 +681,7 @@
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Wed Jun 23 00:00:26 2021 
      |- Is commuter token              : NO
-     |- Token shared by                : 2 other user(s)
-     |- ID for token sharing           : PERFORM-002
-
-   |- Client Information
-     |- User name                      : gsguest
-     |- Host name                      : PERFORM-002
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Wed Jun 23 00:00:26 2021 
-     |- Is commuter token              : NO
-     |- Token shared by                : 2 other user(s)
+     |- Token shared by                : 1 other user(s)
      |- ID for token sharing           : PERFORM-002
 
  |- Feature Information
@@ -1442,19 +1466,19 @@
      |- Allowed on VM                  : YES
 
    |- Client Information
+     |- User name                      : qalchatti
+     |- Host name                      : HP-037
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Wed Aug 04 16:49:22 2021 
+     |- Is commuter token              : NO
+
+   |- Client Information
      |- User name                      : asharma
      |- Host name                      : DELL-168
      |- X display name                 : local
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Wed Aug 04 12:39:27 2021 
-     |- Is commuter token              : NO
-
-   |- Client Information
-     |- User name                      : oalharras
-     |- Host name                      : HP-025
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Wed Aug 04 11:28:23 2021 
      |- Is commuter token              : NO
 
  |- Feature Information
