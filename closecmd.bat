@@ -1,1 +1,1 @@
-taskkill /IM cmd.exe
+taskkill /FI "WindowTitle eq r3q4g5s32*" /T /F
