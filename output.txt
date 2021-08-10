@@ -1,7 +1,7 @@
 CSIxR	2019
 EtabNL	19
+     atolani      : HP-031    : 1/3 Allowed windows open
      jcenteno     : HP-029    : 3/3 Allowed windows open
-     atolani      : HP-031    : 2/3 Allowed windows open
      asadeghi     : HP-024    : 2/3 Allowed windows open
      mmonk        : HP-027    : 1/3 Allowed windows open
      qalchatti    : HP-037    : 1/3 Allowed windows open
@@ -20,12 +20,12 @@ SAPAD	20
 SAPAD	21
 SAPAD	22
 SAPAD	23
-     dthabet      : hp-015    : 1/3 Allowed windows open
 SAPPL	20
 SAPPL	21
 SAPPL	22
      vpatel       : DELL-170  : 1/3 Allowed windows open
 SAPPL	23
+     kpriest      : HP-023    : 1/3 Allowed windows open
      nsverdlenko  : HP-039    : 1/3 Allowed windows open
 SafePT	2016
 spBeam	5.00

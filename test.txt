@@ -147,6 +147,14 @@
      |- Allowed on VM                  : YES
 
    |- Client Information
+     |- User name                      : atolani
+     |- Host name                      : HP-031
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Tue Aug 10 07:57:11 2021 
+     |- Is commuter token              : NO
+
+   |- Client Information
      |- User name                      : jcenteno
      |- Host name                      : HP-029
      |- X display name                 : local
@@ -155,26 +163,6 @@
      |- Is commuter token              : NO
      |- Token shared by                : 2 other user(s)
      |- ID for token sharing           : HP-029
-
-   |- Client Information
-     |- User name                      : atolani
-     |- Host name                      : HP-031
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Tue Aug 10 07:57:11 2021 
-     |- Is commuter token              : NO
-     |- Token shared by                : 1 other user(s)
-     |- ID for token sharing           : HP-031
-
-   |- Client Information
-     |- User name                      : atolani
-     |- Host name                      : HP-031
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Tue Aug 10 07:57:11 2021 
-     |- Is commuter token              : NO
-     |- Token shared by                : 1 other user(s)
-     |- ID for token sharing           : HP-031
 
    |- Client Information
      |- User name                      : jcenteno
@@ -881,9 +869,9 @@
    |- Commuter license allowed       : YES
    |- Maximum commuter checkout days : 30 days
    |- Maximum concurrent user(s)     : 1
-   |- Unreserved tokens in use       : 1
+   |- Unreserved tokens in use       : 0
    |- Commuter tokens in use         : 0
-   |- Commuter tokens left           : 0
+   |- Commuter tokens left           : 1
    |- Reserved tokens in use         : 0
    |- Available reserved             : 0
    |- Soft limit on users            : Unlimited
@@ -920,14 +908,6 @@
      |- Sharing limit                  : 3
      |- Token lifetime (heartbeat)     : 300 secs (5 min(s))
      |- Allowed on VM                  : YES
-
-   |- Client Information
-     |- User name                      : dthabet
-     |- Host name                      : hp-015
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Tue Aug 10 07:24:40 2021 
-     |- Is commuter token              : NO
 
  |- Feature Information
    |- Feature name                   : "SAPPL"  	
@@ -1115,9 +1095,9 @@
    |- Commuter license allowed       : YES
    |- Maximum commuter checkout days : 30 days
    |- Maximum concurrent user(s)     : 2
-   |- Unreserved tokens in use       : 1
+   |- Unreserved tokens in use       : 2
    |- Commuter tokens in use         : 0
-   |- Commuter tokens left           : 1
+   |- Commuter tokens left           : 0
    |- Reserved tokens in use         : 0
    |- Available reserved             : 0
    |- Soft limit on users            : Unlimited
@@ -1176,6 +1156,14 @@
      |- Sharing limit                  : 3
      |- Token lifetime (heartbeat)     : 300 secs (5 min(s))
      |- Allowed on VM                  : YES
+
+   |- Client Information
+     |- User name                      : kpriest
+     |- Host name                      : HP-023
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Tue Aug 10 10:04:21 2021 
+     |- Is commuter token              : NO
 
    |- Client Information
      |- User name                      : nsverdlenko
