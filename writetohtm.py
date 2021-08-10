@@ -6,7 +6,8 @@ d2 = today.strftime("%B %d, %Y")
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 with open("license.html", "w") as e:
-    e.write("<img src='https://glotmansimpson.com/wp-content/uploads/2020/03/Glotman-Simpson-Logo-1-1024x178.jpg' alt='Simply Easy Learning' width='512' height='89'>")
+    e.write("<img src='https://glotmansimpson.com/wp-content/uploads/2020/03/Glotman-Simpson-Logo-1-1024x178.jpg' alt='gsheader' width='512' height='89'>")
+    e.write("<pre><b> This is a CSI License Tracker to show how many Licenses per program are being used and who is using them.</b></pre>")
     e.write("<pre><b> Refreshed : " + str(d2) + " at "+ str(current_time) + "</b></pre>")
     for lines in contents.readlines():
         if "Licenses being used" in lines:
