@@ -147,12 +147,54 @@
      |- Allowed on VM                  : YES
 
    |- Client Information
+     |- User name                      : jcenteno
+     |- Host name                      : HP-029
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Mon Aug 09 18:30:11 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 2 other user(s)
+     |- ID for token sharing           : HP-029
+
+   |- Client Information
      |- User name                      : atolani
      |- Host name                      : HP-031
      |- X display name                 : local
      |- Group name                     : DefaultGrp
-     |- Status                         : Running since Mon Aug 09 07:50:33 2021 
+     |- Status                         : Running since Tue Aug 10 07:57:11 2021 
      |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-031
+
+   |- Client Information
+     |- User name                      : atolani
+     |- Host name                      : HP-031
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Tue Aug 10 07:57:11 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-031
+
+   |- Client Information
+     |- User name                      : jcenteno
+     |- Host name                      : HP-029
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Mon Aug 09 18:30:11 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 2 other user(s)
+     |- ID for token sharing           : HP-029
+
+   |- Client Information
+     |- User name                      : jcenteno
+     |- Host name                      : HP-029
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Mon Aug 09 18:30:11 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 2 other user(s)
+     |- ID for token sharing           : HP-029
 
    |- Client Information
      |- User name                      : asadeghi
@@ -163,16 +205,6 @@
      |- Is commuter token              : NO
      |- Token shared by                : 1 other user(s)
      |- ID for token sharing           : HP-024
-
-   |- Client Information
-     |- User name                      : wlegrange
-     |- Host name                      : HP-044
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Mon Aug 09 08:12:52 2021 
-     |- Is commuter token              : NO
-     |- Token shared by                : 1 other user(s)
-     |- ID for token sharing           : HP-044
 
    |- Client Information
      |- User name                      : asadeghi
@@ -191,16 +223,6 @@
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Mon Aug 09 08:14:44 2021 
      |- Is commuter token              : NO
-
-   |- Client Information
-     |- User name                      : wlegrange
-     |- Host name                      : HP-044
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Mon Aug 09 08:12:52 2021 
-     |- Is commuter token              : NO
-     |- Token shared by                : 1 other user(s)
-     |- ID for token sharing           : HP-044
 
    |- Client Information
      |- User name                      : qalchatti
@@ -361,12 +383,24 @@
      |- Allowed on VM                  : YES
 
    |- Client Information
-     |- User name                      : jcenteno
-     |- Host name                      : HP-029
+     |- User name                      : mmonk
+     |- Host name                      : HP-027
      |- X display name                 : local
      |- Group name                     : DefaultGrp
-     |- Status                         : Running since Mon Aug 09 14:34:08 2021 
+     |- Status                         : Running since Tue Aug 10 07:02:44 2021 
      |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-027
+
+   |- Client Information
+     |- User name                      : mmonk
+     |- Host name                      : HP-027
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Tue Aug 10 07:02:44 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-027
 
  |- Feature Information
    |- Feature name                   : "EtabUL"  	
@@ -581,6 +615,18 @@
      |- Group name                     : DefaultGrp
      |- Status                         : Running since Thu Aug 05 13:28:40 2021 
      |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-028
+
+   |- Client Information
+     |- User name                      : edezhdar
+     |- Host name                      : HP-028
+     |- X display name                 : local
+     |- Group name                     : DefaultGrp
+     |- Status                         : Running since Thu Aug 05 13:28:40 2021 
+     |- Is commuter token              : NO
+     |- Token shared by                : 1 other user(s)
+     |- ID for token sharing           : HP-028
 
    |- Client Information
      |- User name                      : gsguest
@@ -880,7 +926,7 @@
      |- Host name                      : hp-015
      |- X display name                 : local
      |- Group name                     : DefaultGrp
-     |- Status                         : Running since Mon Aug 09 14:39:36 2021 
+     |- Status                         : Running since Tue Aug 10 07:24:40 2021 
      |- Is commuter token              : NO
 
  |- Feature Information
@@ -1132,11 +1178,11 @@
      |- Allowed on VM                  : YES
 
    |- Client Information
-     |- User name                      : nmaerkl
-     |- Host name                      : HP-009
+     |- User name                      : nsverdlenko
+     |- Host name                      : HP-039
      |- X display name                 : local
      |- Group name                     : DefaultGrp
-     |- Status                         : Running since Mon Aug 09 15:32:31 2021 
+     |- Status                         : Running since Tue Aug 10 04:05:18 2021 
      |- Is commuter token              : NO
 
  |- Feature Information
@@ -1347,9 +1393,9 @@
    |- Commuter license allowed       : YES
    |- Maximum commuter checkout days : 180 days
    |- Maximum concurrent user(s)     : 5
-   |- Unreserved tokens in use       : 1
+   |- Unreserved tokens in use       : 0
    |- Commuter tokens in use         : 0
-   |- Commuter tokens left           : 4
+   |- Commuter tokens left           : 5
    |- Reserved tokens in use         : 0
    |- Available reserved             : 0
    |- Soft limit on users            : Unlimited
@@ -1382,14 +1428,6 @@
      |- Held licenses                  : Allowed, hold time set by application.
      |- Token lifetime (heartbeat)     : 120 secs (2 min(s))
      |- Allowed on VM                  : YES
-
-   |- Client Information
-     |- User name                      : rhabchi
-     |- Host name                      : HP-032
-     |- X display name                 : local
-     |- Group name                     : DefaultGrp
-     |- Status                         : Running since Mon Aug 09 15:51:23 2021 
-     |- Is commuter token              : NO
 
  |- Feature Information
    |- Feature name                   : "spMats"  	
