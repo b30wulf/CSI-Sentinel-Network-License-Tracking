@@ -1,0 +1,115 @@
+  Sentinel RMS Development Kit 9.4.0.0023 Application Monitor
+  Copyright (C) 2018 SafeNet, Inc.
+
+ [Contacting Sentinel RMS Development Kit server on host "gs-5"]
+
+
+ |- Feature Information
+   |- Feature name                   : "CSIxR"  	
+   |- Feature version                : "2019"
+
+   |- License type                   : "Normal License" 
+   |- License Version                : 0x09200000
+   |- Commuter license allowed       : YES
+   |- Maximum commuter checkout days : 30 days
+   |- Maximum concurrent user(s)     : 1
+   |- Unreserved tokens in use       : 0
+   |- Commuter tokens in use         : 0
+   |- Commuter tokens left           : 1
+   |- Reserved tokens in use         : 0
+   |- Available reserved             : 0
+   |- Soft limit on users            : Unlimited
+   |- License start date             : Thu Sep 19 17:00:00 2019
+   |- Expiration date                : Mon Sep 20 17:00:00 2021
+   |- Log encryption level           : 1
+   |- Check time tamper              : No
+   |- Application-server locking     : Server-locked license.
+   |- Server #1 locking code         : Primary   = 2010-*157PPMXD4NRZEMU 
+   |- Additive/exclusive/aggregate   : Additive license(number of tokens will be added).
+   |- Sharing criterion              : Client host name based sharing.
+   |- Sharing limit                  : 3
+   |- Token lifetime (heartbeat)     : 300 secs (5 min(s))
+   |- Allowed on VM                  : YES
+
+   |- License Information
+     |- License Hash                   : 1879E20196A1C071
+     |- License type                   : "Normal License" 
+     |- License Version                : 0x09200000
+     |- License storage name           : C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel RMS License Manager\WinNT\lservrc
+     |- License status                 : Active
+     |- Commuter license allowed       : YES
+     |- Maximum commuter checkout days : 30 days
+     |- Maximum concurrent user(s)     : 1
+     |- Soft limit on users            : Unlimited
+     |- License start date             : Thu Sep 19 17:00:00 2019
+     |- Expiration date                : Mon Sep 20 17:00:00 2021
+     |- Log encryption level           : 1
+     |- Check time tamper              : No
+     |- Application-server locking     : Server-locked license.
+     |- Server #1 locking code         : Primary   = 2010-*157PPMXD4NRZEMU 
+     |- Additive/exclusive/aggregate   : Additive license(number of tokens will be added).
+     |- Sharing criterion              : Client host name based sharing.
+     |- Sharing limit                  : 3
+     |- Token lifetime (heartbeat)     : 300 secs (5 min(s))
+     |- Allowed on VM                  : YES
+
+ |- Feature Information
+   |- Feature name                   : "EtabNL"  	
+   |- Feature version                : "19"
+
+   |- License type                   : "Normal License" 
+   |- License Version                : 0x09200000
+   |- Commuter license allowed       : YES
+   |- Maximum commuter checkout days : 30 days
+   |- Maximum concurrent user(s)     : 7
+   |- Unreserved tokens in use       : 5
+   |- Commuter tokens in use         : 0
+   |- Commuter tokens left           : 2
+   |- Reserved tokens in use         : 0
+   |- Available reserved             : 0
+   |- Soft limit on users            : Unlimited
+   |- License start date             : Tue Jun 29 17:00:00 2021
+   |- Expiration date                : Fri Mar 04 15:59:00 2022
+   |- Log encryption level           : 1
+   |- Check time tamper              : No
+   |- Application-server locking     : Server-locked license.
+   |- Server #1 locking code         : Primary   = 2008-*1PFXZ2KZMNVNFBV 
+   |- Additive/exclusive/aggregate   : Additive license(number of tokens will be added).
+   |- Sharing criterion              : Client host name based sharing.
+   |- Sharing limit                  : 3
+   |- Token lifetime (heartbeat)     : 300 secs (5 min(s))
+   |- Allowed on VM                  : YES
+
+   |- License Information
+     |- License Hash                   : C894EAFABB456B5A
+     |- License type                   : "Normal License" 
+     |- License Version                : 0x09200000
+     |- License storage name           : C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel RMS License Manager\WinNT\lservrc
+     |- License status                 : Active
+     |- Commuter license allowed       : YES
+     |- Maximum commuter checkout days : 30 days
+     |- Maximum concurrent user(s)     : 1
+     |- Soft limit on users            : Unlimited
+     |- License start date             : Tue Jun 29 17:00:00 2021
+     |- Expiration date                : Thu Jun 30 16:59:00 2022
+     |- Log encryption level           : 1
+     |- Check time tamper              : No
+     |- Application-server locking     : Server-locked license.
+     |- Server #1 locking code         : Primary   = 2008-*1PFXZ2KZMNVNFBV 
+     |- Additive/exclusive/aggregate   : Additive license(number of tokens will be added).
+     |- Sharing criterion              : Client host name based sharing.
+     |- Sharing limit                  : 3
+     |- Token lifetime (heartbeat)     : 300 secs (5 min(s))
+     |- Allowed on VM                  : YES
+
+   |- License Information
+     |- License Hash                   : F05BCC4E16DDF222
+     |- License type                   : "Normal License" 
+     |- License Version                : 0x09200000
+     |- License storage name           : C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel RMS License Manager\WinNT\lservrc
+     |- License status                 : Active
+     |- Commuter license allowed       : YES
+     |- Maximum commuter checkout days : 30 days
+     |- Maximum concurrent user(s)     : 5
+     |- Soft limit on users            : Unlimited
+     |- License start date             : Wed Mar 03 16:00:00 20^C
