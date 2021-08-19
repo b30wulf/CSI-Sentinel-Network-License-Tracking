@@ -1,46 +1,38 @@
 CSIxR	2019
 EtabNL	19
-     edezhdar     : HP-028    : 2/3 Allowed windows open
-     edezhdar     : HP-028    : 2/3 Allowed windows open
      atolani      : HP-031    : 1/3 Allowed windows open
      asadeghi     : HP-024    : 1/3 Allowed windows open
-     jcenteno     : HP-029    : 3/3 Allowed windows open
+     edezhdar     : HP-028    : 1/3 Allowed windows open
+     nsverdlenko  : HP-039    : 1/3 Allowed windows open
      qalchatti    : HP-037    : 1/3 Allowed windows open
-     jcenteno     : HP-029    : 3/3 Allowed windows open
-     jcenteno     : HP-029    : 3/3 Allowed windows open
-EtabNL	2017
 EtabUL	19
      mmonk        : HP-027    : 1/3 Allowed windows open
-EtabUL	2017
 Per3D	7
-     mmonk        : HP-027    : 1/3 Allowed windows open
-     mmonk        : HP-027    : 2/3 Allowed windows open
-     gsguest      : perform-001 : 2/3 Allowed windows open
-     gsguest      : perform-001 : 2/3 Allowed windows open
-     mmonk        : HP-027    : 2/3 Allowed windows open
-     edezhdar     : HP-028    : 2/3 Allowed windows open
-     edezhdar     : HP-028    : 2/3 Allowed windows open
-     gsguest      : Dell-164  : 1/3 Allowed windows open
+     gsguest      : Dell-164  : 2/3 Allowed windows open
+     gsguest      : Dell-164  : 2/3 Allowed windows open
      gsguest      : PERFORM-002 : 2/3 Allowed windows open
+     gsguest      : perform-001 : 3/3 Allowed windows open
+     mmonk        : HP-027    : 1/3 Allowed windows open
+     mmonk        : HP-027    : 1/3 Allowed windows open
+     gsguest      : perform-001 : 3/3 Allowed windows open
+     gsguest      : perform-001 : 3/3 Allowed windows open
      gsguest      : PERFORM-002 : 2/3 Allowed windows open
 Per3D	8
-     qalchatti    : HP-037    : 2/3 Allowed windows open
-     qalchatti    : HP-037    : 2/3 Allowed windows open
-SAPAD	20
-SAPAD	21
-SAPAD	22
+     gsguest      : perform-001 : 1/3 Allowed windows open
+     qalchatti    : HP-037    : 1/3 Allowed windows open
+     gsguest      : DELL-166  : 3/3 Allowed windows open
+     gsguest      : DELL-166  : 3/3 Allowed windows open
+     gsguest      : DELL-166  : 3/3 Allowed windows open
+     gsguest      : perform-001 : 3/3 Allowed windows open
+     gsguest      : perform-001 : 3/3 Allowed windows open
+     gsguest      : perform-001 : 3/3 Allowed windows open
 SAPAD	23
-SAPPL	20
-SAPPL	21
-SAPPL	22
-     vpatel       : DELL-170  : 1/3 Allowed windows open
+     nmaerkl      : HP-009    : 1/3 Allowed windows open
 SAPPL	23
 SafePT	2016
 spBeam	5.00
-spColumn	6.00
 spColumn	7.00
-     skumar       : HP-006    : 1/3 Allowed windows open
-     kpriest      : HP-023    : 1/3 Allowed windows open
+     edezhdar     : HP-028    : 1/3 Allowed windows open
 spMats	8.00
 spSlab	5.00
 spWall	5.00
