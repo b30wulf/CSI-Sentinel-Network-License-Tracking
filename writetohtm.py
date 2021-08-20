@@ -1,10 +1,10 @@
-contents = open("output1.txt","r")
+contents = open("output1.txt","r") #open output1.txt (read only)
 from datetime import datetime
 from datetime import date
 today = date.today()
-d2 = today.strftime("%B %d, %Y")
+d2 = today.strftime("%B %d, %Y") #get user time and date
 now = datetime.now()
-current_time = now.strftime("%I:%M:%S %p")
+current_time = now.strftime("%I:%M:%S %p") #convert time/date to string
 with open("//gs-3/CSI/CSI_detail.html", "w") as e:
     #glotmansimpson banner + description + refresh time.
     e.write("<img src='https://glotmansimpson.com/wp-content/uploads/2020/03/Glotman-Simpson-Logo-1-1024x178.jpg' alt='gsheader' width='512' height='89'>")

@@ -1,16 +1,18 @@
-h = open("temp.txt", 'a')
-h.truncate(0)
-g = open("output.txt", "a")
-g.truncate(0)
-f = open("test.txt",'r')
-j = open("output1.txt","a")
-j.truncate(0)
-irofile = iter(f)
+f = open("test.txt",'r')#open the raw data from lsmon.exe (open for only read)
+h = open("temp.txt", 'a')#first temp file (open for read/write)
+h.truncate(0)#clear
+g = open("output.txt", "a")#second temp file (open for read/write)
+g.truncate(0)#clear
+j = open("output1.txt","a")#final file ready to be converted to html (open for read/write)
+j.truncate(0)#clear
+irofile = iter(f) #initialize iterator for lines in a text file
+#Static Variables
 NUM_PROGRAMS = 22
 NUM_LICENSE_ALLIGN = 14
 NUM_USER_ALLIGN = 17
 NUM_TOTAL_ALLIGN = 30
 address1 = 0
+#data lists
 counter = [0]*NUM_PROGRAMS
 max = [0]*NUM_PROGRAMS
 #looping through raw data
@@ -91,19 +93,19 @@ for line in f:
             line9 = line9 + " : 1/3 Allowed windows open\n"
             h.write(line9)
 
-h.write(" ") #prevent the script from thinking this empty line is a new program.
-h.close()
-h = open("temp.txt", 'r')
-irofile2 = iter(h)
-temp = {}
+
+h.close()#close reader for mem
+h = open("temp.txt", 'r') #open temp file (read only)
+irofile2 = iter(h) #new iterator
+temp = {} #HashMap
 #filters out all duplicate users written in temp.txt
 for line in h:
     if (not line in temp.keys()):
         temp[line] = line
         g.write(line)
-g.close()
-g = open("output.txt", 'r')
-irofile3 = iter(g)
+g.close()#close reader for mem
+g = open("output.txt", 'r')#open temp file (read only)
+irofile3 = iter(g) #new iterator
 count = 0
 address = -1
 #We count the number of licenses used per program after being filtered by for loop above.
@@ -120,9 +122,9 @@ for line in g:
         #initial address value (list allignment)
         else :
             address = 0
-g.close()  
-g = open("output.txt", 'r')
-irofile3 = iter(g)
+g.close()  #close reader for mem
+g = open("output.txt", 'r') #open temp file (read only)
+irofile3 = iter(g) # new iterator
 address2 = 0
 for line in g:
     #for each program program line found
@@ -142,6 +144,6 @@ for line in g:
     else :
         j.write(line)
 
-j.close()
+j.close()#close reader for mem
 
 
